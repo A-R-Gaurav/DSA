@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/A-R-Gaurav/DSA/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/A-R-Gaurav/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/A-R-Gaurav/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
