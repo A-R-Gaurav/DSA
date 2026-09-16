@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/A-R-Gaurav/DSA/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/A-R-Gaurav/DSA/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/A-R-Gaurav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/A-R-Gaurav/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
