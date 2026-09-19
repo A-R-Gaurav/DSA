@@ -59,6 +59,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/A-R-Gaurav/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/A-R-Gaurav/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/A-R-Gaurav/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/A-R-Gaurav/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/A-R-Gaurav/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/A-R-Gaurav/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/A-R-Gaurav/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/A-R-Gaurav/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/A-R-Gaurav/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/A-R-Gaurav/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
