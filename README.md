@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/A-R-Gaurav/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/A-R-Gaurav/DSA/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/A-R-Gaurav/DSA/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0011-container-with-most-water](https://github.com/A-R-Gaurav/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/A-R-Gaurav/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/A-R-Gaurav/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/A-R-Gaurav/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/A-R-Gaurav/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/A-R-Gaurav/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/A-R-Gaurav/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/A-R-Gaurav/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/A-R-Gaurav/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/A-R-Gaurav/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
